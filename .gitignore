@@ -1,3 +1,6 @@
+data/swahili_blended/
+*.jsonl
+
 # Logs
 logs
 *.log
