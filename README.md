@@ -100,7 +100,6 @@ swahili-ai/
 - **Dataset**: https://huggingface.co/datasets/NabajyotiPathak/kiswahili-ai-blended
 - **Kaggle Dataset**: https://www.kaggle.com/datasets/nabajyotipathak/kiswahili-ai-blended
 - **Kaggle Model**: https://www.kaggle.com/models/nabajyotipathak/kiswahili-ai-blended
-- **GitHub**: https://github.com/ThatDawg/kiswahili-ai
 
 ## Judging Criteria Alignment
 
